@@ -1,6 +1,7 @@
+https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-6/342866201_928597471713486_6663839743086969490_n.jpg?_nc_cat=109&ccb=1-
 ### Hi there 👋, Ferdous Wahid
 #### I am a python programmer
-![I am a python programmer](https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-6/342866201_928597471713486_6663839743086969490_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=52f669&_nc_eui2=AeGgZDD3BFhiGAswg8K15DHEbwudgOOmH2BvC52A46YfYEU9gvOl2HTFtCWqu21QdUXA5syqy4TcDzNBjfP5Hv-2&_nc_ohc=qeP9Y4uSnlQAX8pUy6k&_nc_ht=scontent.fdac24-4.fna&oh=00_AfAycSYygG-24BXIFgD3LGFH41J_hw2kVBl6NRhUKmpATg&oe=652B1133)
+![I am a python programmer](7&_nc_sid=52f669&_nc_eui2=AeGgZDD3BFhiGAswg8K15DHEbwudgOOmH2BvC52A46YfYEU9gvOl2HTFtCWqu21QdUXA5syqy4TcDzNBjfP5Hv-2&_nc_ohc=qeP9Y4uSnlQAX8pUy6k&_nc_ht=scontent.fdac24-4.fna&oh=00_AfAycSYygG-24BXIFgD3LGFH41J_hw2kVBl6NRhUKmpATg&oe=652B1133)
 
 Dream python programmer
 
