@@ -1,4 +1,4 @@
-[](https://www.facebook.com/photo/?fbid=319895190738689&set=a.105441085517435)
+![](https://www.facebook.com/photo/?fbid=319895190738689&set=a.105441085517435)
 
 ### Hi there 👋, Md Ferdous Wahid
 
@@ -16,5 +16,4 @@ Skills: PYTHON / HTML
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=struggleferdous&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=struggleferdous)  
-
 
