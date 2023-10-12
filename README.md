@@ -1,8 +1,8 @@
-### Hi there 👋, Ferdous Wahid
-#### I am a python programmer
-![I am a python programmer](https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-6/342866201_928597471713486_6663839743086969490_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=52f669&_nc_eui2=AeGgZDD3BFhiGAswg8K15DHEbwudgOOmH2BvC52A46YfYEU9gvOl2HTFtCWqu21QdUXA5syqy4TcDzNBjfP5Hv-2&_nc_ohc=qeP9Y4uSnlQAX8pUy6k&_nc_ht=scontent.fdac24-4.fna&oh=00_AfAycSYygG-24BXIFgD3LGFH41J_hw2kVBl6NRhUKmpATg&oe=652B1133)
+![](https://www.facebook.com/photo/?fbid=319895190738689&set=a.105441085517435)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+### Hi there 👋, Md Ferdous Wahid
+
+Beginner python programmer
 
 Skills: PYTHON / HTML
 
@@ -15,5 +15,6 @@ Skills: PYTHON / HTML
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=struggleferdous&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=struggleferdous)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=struggleferdous)  
+
 
