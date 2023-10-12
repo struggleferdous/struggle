@@ -12,5 +12,4 @@ Skills: PYTHON / HTML
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=struggleferdous)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=struggleferdous)  
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=struggleferdous)
