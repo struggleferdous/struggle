@@ -1,4 +1,4 @@
-(https://pbs.twimg.com/profile_banners/1712786458678091776/1697195352/600x200)
+https://pbs.twimg.com/profile_banners/1712786458678091776/1697195352/600x200
 
 
 ### Hi there 👋, Md Ferdous Wahid
