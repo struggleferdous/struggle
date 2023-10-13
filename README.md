@@ -1,9 +1,9 @@
-![Python programmer](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/391637804_320373160690892_2659548639682471702_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH1fO_UUYJMda_JNBsyy4YQ6QaPf4HjTcnpBo9_geNNydDK3UclvXsP8F1a3LKXe-HRXAfQaQTEm1DQZyy7Ek3j&_nc_ohc=DQT8OE43VYUAX89eLAF&_nc_ht=scontent.fdac24-2.fna&oh=00_AfBKPRwAIi4Hx-1wgfGa09w1wS4pneAIWl8BI0Yo1HAdvg&oe=652D62A1)
+(https://pbs.twimg.com/profile_banners/1712786458678091776/1697195352/600x200)
+
 
 ### Hi there 👋, Md Ferdous Wahid
 #### Python programmer
-
-
+![Python programmer]
 Dream a profession programmer
 
 Skills: HTML / Python
