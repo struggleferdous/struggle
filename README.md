@@ -14,7 +14,7 @@ Skills: HTML / Python
 - 🌱 I’m currently learning Python/ HTML 
 - 👯 I’m looking to collaborate on GitHub 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aboutSakib&label=Profile%20views&color=green&style=flat" alt="aboutSakib" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=struggleferdous&label=Profile%20views&color=green&style=flat" alt="struggleferdous" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
